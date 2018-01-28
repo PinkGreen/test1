@@ -31,17 +31,4 @@
         <input class="Button EdgeButton--primary EdgeButton" type="submit" value="続ける">
       </form>
 
-      <div class="Section-footer">
-        <a href="https://support.twitter.com/forms/signin?ref=password_reset" target="_blank">
-          いずれにもアクセスできません
-        </a>
-      </div>
 
-    </div>
-
-  </div>
-    <script src="https://abs-0.twimg.com/login/base.0f5a1a3f35b9bc26633140a07d5ec411f43099e2.js" type="text/javascript"></script>
-  
-
-
-</body></html>

@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html><head>
 
-        <div class="PageHeader Edge">
-          どのようにパスワードをリセットしますか？
-        </div>
-
-          <div class="user-profile-box">
-  <img class="Avatar Avatar--size48 profile-image" alt="Profile Image for @sakujyoyoubye" src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png">
-  <div class="user-name-box">
-    <div class="fullname">削除用</div>
-    <div class="screenname">@sakujyoyoubye</div>
-  </div>
-</div>
 
         <p>
           このアカウントに関する以下の情報が見つかりました。

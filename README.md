@@ -5,7 +5,6 @@
       </head>
       <body>
 <center>
-<object data="https://github.com//PinkGreen/test1/raw/master/test.mp4" type="video/mp4"  contorols width="640" height="360">     
-      </object>
+<img src="/PinkGreen/test1/raw/4fccc69d80b9f26962d070647775a3534329817c/burori-.gif">     
       </body>
             </html>

@@ -33,7 +33,7 @@ a-a-、テスト晒し中ｗｗｗ<BR>
 </h5><BR>
 <H2>感想</H2><BR>
 <h3>ただのゴミ動画でしたｗｗｗ</h3><BR>
-<img sec="https://raw.githubusercontent.com/PinkGreen/test1/master/kusodouga.jpg"><BR>
+<img src="https://raw.githubusercontent.com/PinkGreen/test1/master/kusodouga.jpg"><BR>
 <H4>45秒で見るのやめましたｗｗｗ<BR>
 ただひたすら糞野郎だのストレスたまんだよ等と垂れ流す動画で<BR>
 こんなのを約11時間も見るほど暇じゃないので低評価だけ押して帰りましたｗｗ<BR>

@@ -20,7 +20,7 @@ a-a-、テスト晒し中ｗｗｗ<BR>
 <a href="https://twitter.com/s_voju">ヴォジュ君のツイッターアカウント</a><BR>
 <a href="https://www.youtube.com/channel/UCLs3h1iN1Hf8ZStEG9GKDEQ/videos">ヴォジュ君の無駄なツベ動画集ｗｗ</a><BR><BR>
 事の始まりはあるツイートが流れてきたことである<BR>
-<img src="https://raw.githubusercontent.com/PinkGreen/test1/master/naiyou.jpg"><BR>   
+<img src="https://raw.githubusercontent.com/PinkGreen/test1/master/naiyou.jpg"><BR>
 これ見た感想はまだ痛い奴がいたものだな程度でしたが<BR>
 念のため奴のツイ垢行ってみました<BR>
 そしたらこれだよｗｗｗ<BR>

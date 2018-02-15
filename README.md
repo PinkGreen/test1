@@ -1,10 +1,14 @@
-<!DOCTYPE html>
+<!DOCTYPE htmL>
 <html lang="ja">
 <head>
       <center>
      <h1>
            ブロリーさんの晒しブログ
-            </h1>
+            </h1>
+テスト晒しｗｗｗ
+初めましての方は初めまして
+ブロリーでなくPGことPinkgreenです
+今回は稀にしかお目にかかれない中二病のｋｓを紹介していきたいと思います            
 </head>
       <body>
 

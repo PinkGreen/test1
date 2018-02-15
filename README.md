@@ -28,3 +28,19 @@ a-a-、テスト晒し中ｗｗｗ<BR>
               は？モンハンだけならまだ解るけどなんでオリンピック愚弄してるの？こいつ…<BR></h3><BR><BR>
 <img src="https://raw.githubusercontent.com/PinkGreen/test1/master/nannsaidayokoitu.gif">       
 <h2>何歳だよ？こいつ…</h2><BR><BR><h5>こんな気分になりました、実に不快です、だからブログ作成決行しましたｗｗ    
+<BR><BR>
+これだけオリンピックを侮辱しているのだからこいつの動画はさぞかしそれを超える面白さがあるんだろうと思い見てきました<BR>
+</h5><BR>
+<H2>感想</H2><BR>
+<h3>ただのゴミ動画でしたｗｗｗ</h3><BR>
+<img sec="https://raw.githubusercontent.com/PinkGreen/test1/master/kusodouga.jpg"><BR>
+<H4>45秒で見るのやめましたｗｗｗ<BR>
+ただひたすら糞野郎だのストレスたまんだよ等と垂れ流す動画で<BR>
+こんなのを約11時間も見るほど暇じゃないので低評価だけ押して帰りましたｗｗ<BR>
+(ってかみんな低評価しか押してねえｗｗｗ)<BR>
+       <BR></H4><BR>
+<h3>まだ麻原の空中浮遊(インキチ)見てた方がマシですわｗ</h3>
+<BR><img src="https://raw.githubusercontent.com/PinkGreen/test1/master/asahara.gif"><BR><BR>
+       <BR><h1>結論</h1><br>
+<h2>他人や会社、競技等をけなす暇があったら<br>まずてめえの無駄な11時間の取るに足らねえ下らねえ動画を何とかしてくださいｗｗｗ<br>
+以上ですｗｗｗ</h2>

@@ -14,6 +14,8 @@ a-a-、テスト晒し中ｗｗｗ<BR>
 ブロリーでなくPGことPinkgreenです<BR>
 今回は稀にしかお目にかかれない中二病のｋｓを紹介していきたいと思います<BR>            
        </h5>
+       <h4>ヴォジュ君ですｗｗ</h4><BR>
+       <img src="https://raw.githubusercontent.com/PinkGreen/test1/master/-v_BavEa_400x400.jpg">
 
 
     

@@ -1,4 +1,4 @@
-<!DOCTYPE htmL>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
 <body>
@@ -25,5 +25,6 @@ a-a-、テスト晒し中ｗｗｗ<BR>
 念のため奴のツイ垢行ってみました<BR></h5>
 <h3>そしたらこれだよｗｗｗ<BR>
 <img src="https://raw.githubusercontent.com/PinkGreen/test1/master/naiyou1.jpg"><BR><img src="https://github.com/PinkGreen/test1/blob/master/naiyou2.jpg"><BR>
-              は？モンハンだけならまだ解るけどなんでオリンピック愚弄してるの？こいつ…<BR></h3>
-<h2>何歳だよ？こいつ…</h2><BR><img src="https://raw.githubusercontent.com/PinkGreen/test1/master/nannsaidayokoitu.gif"><BR><h5>こんな気分になりました      
+              は？モンハンだけならまだ解るけどなんでオリンピック愚弄してるの？こいつ…<BR></h3><BR><BR>
+<img src="https://raw.githubusercontent.com/PinkGreen/test1/master/nannsaidayokoitu.gif">       
+<h2>何歳だよ？こいつ…</h2><BR><BR><h5>こんな気分になりました、実に不快です、だからブログ作成決行しましたｗｗ    

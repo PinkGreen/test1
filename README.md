@@ -22,8 +22,8 @@ a-a-、テスト晒し中ｗｗｗ<BR>
 事の始まりはあるツイートが流れてきたことである<BR>
 <img src="https://raw.githubusercontent.com/PinkGreen/test1/master/naiyou.jpg"><BR>
 これ見た感想はまだ痛い奴がいたものだな程度でしたが<BR>
-念のため奴のツイ垢行ってみました<BR>
-そしたらこれだよｗｗｗ<BR>
+念のため奴のツイ垢行ってみました<BR></h5>
+<h3>そしたらこれだよｗｗｗ<BR>
 <img src="https://raw.githubusercontent.com/PinkGreen/test1/master/naiyou1.jpg"><BR><img src="https://github.com/PinkGreen/test1/blob/master/naiyou2.jpg"><BR>
-              は？モンハンだけならまだ解るけどなんでオリンピック愚弄してるの？こいつ…<BR></h5>
-<h4>何歳だよ？こいつ…</h4><BR><img src="https://raw.githubusercontent.com/PinkGreen/test1/master/nannsaidayokoitu.gif"><BR><h5>こんな気分になりました      
+              は？モンハンだけならまだ解るけどなんでオリンピック愚弄してるの？こいつ…<BR></h3>
+<h2>何歳だよ？こいつ…</h2><BR><img src="https://raw.githubusercontent.com/PinkGreen/test1/master/nannsaidayokoitu.gif"><BR><h5>こんな気分になりました      
